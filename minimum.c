@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX_ITER 1000
-/*Metoda interpolacji - ekstrapolacji kwadratowej*/
 double f(double x){
 return cos(x);
 }
